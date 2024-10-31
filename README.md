@@ -29,6 +29,9 @@ Este repositório contém implementações de algoritmos de ordenação em C++: 
      ./ordenacao
      ```
 
+## Exemplo de Uso
+
+
 
 ### Exemplo Interativo
 
